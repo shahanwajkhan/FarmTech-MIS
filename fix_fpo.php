@@ -1,0 +1,1 @@
+<?php $files = ['resources/views/components/fpo-sidebar.blade.php', 'resources/views/fpo/dashboard.blade.php']; foreach($files as $file) { if(file_exists($file)) { $content = file_get_contents($file); $content = str_replace('GreenHarvest FPO', '{{ auth()->user()->name ?? \'GreenHarvest FPO\' }}', $content); file_put_contents($file, $content); } }
