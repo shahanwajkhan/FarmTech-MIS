@@ -1,10 +1,7 @@
 {
   "version": 2,
-  "functions": {
-    "api/index.php": {
-      "runtime": "vercel-php@0.7.1"
-    }
-  },
+  "outputDirectory": "public",
+  "cleanUrls": true,
   "routes": [
     {
       "src": "/build/(.*)",
@@ -12,7 +9,7 @@
     },
     {
       "src": "/(.*)",
-      "dest": "/api/index.php"
+      "dest": "/index.html"
     }
   ]
 }
