@@ -1,15 +1,10 @@
 {
-  "version": 2,
   "outputDirectory": "public",
   "cleanUrls": true,
-  "routes": [
+  "rewrites": [
     {
-      "src": "/build/(.*)",
-      "dest": "/build/$1"
-    },
-    {
-      "src": "/(.*)",
-      "dest": "/index.html"
+      "source": "/((?!build/).*)",
+      "destination": "/index.html"
     }
   ]
 }
