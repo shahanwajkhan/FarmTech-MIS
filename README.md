@@ -1,10 +1,13 @@
 # 🌾 FarmTech MIS: Dual-Platform Agriculture Value-Chain Integrator
 
+[![Live Website](https://img.shields.io/badge/Live_Website-farm--tech--mis.vercel.app-10b981?style=for-the-badge&logo=vercel&logoColor=white)](https://farm-tech-mis.vercel.app/)
 [![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)](https://laravel.com)
 [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://mongodb.com)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com)
 [![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://php.net)
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](LICENSE)
+
+> 🚀 **Live Frontend Website**: [https://farm-tech-mis.vercel.app/](https://farm-tech-mis.vercel.app/)
 
 FarmTech MIS is a high-fidelity, dual-platform digital ecosystem specifically engineered to address the systemic challenges of agricultural fragmentation in rural communities. By creating seamless structural pathways between individual smallholder farmers, aggregate cooperatives (**Farmer Producer Organizations - FPOs**), and micro-processing cells (**Self-Help Groups - SHGs**), the platform enables decentralized groups to leverage collective volume, scale up sourcing quality, and cut intermediate leakage.
 
