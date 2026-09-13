@@ -70,7 +70,7 @@
                     <div class="absolute top-6 left-6 bg-white/90 backdrop-blur px-4 py-2 rounded-xl shadow-lg z-20">
                         <p class="text-xs font-bold text-purple-600 uppercase tracking-widest">Self-Help Groups</p>
                     </div>
-                    <img src="{{ asset('images/hero.png') }}" alt="Farmers Group" class="rounded-[1.5rem] w-full h-[500px] object-cover">
+                    <img src="/images/hero.png" onerror="this.onerror=null;this.src='https://images.unsplash.com/photo-1595974482597-4b8da8879bc5?auto=format&fit=crop&w=1200&q=80';" alt="Farmers Group" class="rounded-[1.5rem] w-full h-[500px] object-cover">
                 </div>
                 <!-- Floating Elements -->
                 <div class="absolute -top-10 -right-10 w-32 h-32 bg-yellow-400 rounded-full mix-blend-multiply filter blur-xl opacity-70 animate-blob"></div>
